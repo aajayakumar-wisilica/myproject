@@ -4,6 +4,6 @@ void main()
 {
 
 
-printf("Hi!!!!");
+printf("Hi, that's my first git work");
 
 }
